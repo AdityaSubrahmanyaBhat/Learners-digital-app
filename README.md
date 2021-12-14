@@ -66,13 +66,13 @@ All flutter packages for latex support use webviews, which completely makes sens
 
 ### Team 
 
-<img src="https://github-readme-stats.vercel.app/api?username=iresharma&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api?username=iresharma&show_icons=true&line_height=40&count_private=false&theme=midnight-purple">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sgkul2000&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api?username=sgkul2000&show_icons=true&line_height=40&count_private=false&theme=midnight-purple">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hrithwikbharadwaj&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api?username=hrithwikbharadwaj&show_icons=true&line_height=40&count_private=false&theme=midnight-purple">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaSubrahmanyaBhat&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaSubrahmanyaBhat&show_icons=true&line_height=40&count_private=false&theme=midnight-purple">
 
 ##### Contributions to main app
 
